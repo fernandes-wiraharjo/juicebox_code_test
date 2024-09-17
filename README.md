@@ -112,7 +112,8 @@ By default, the server will run at http://localhost:8000.
 
 =====================================================================
 
-API Endpoints
+### API Endpoints
+
 Users
 POST /api/register: Register a new user.
 POST /api/login: Login a user and return a token.
@@ -128,7 +129,8 @@ DELETE /api/posts/{id}: Delete a post.
 
 =====================================================================
 
-Testing
+### Testing
+
 To run PHPUnit tests, use:
 
 ```bash
