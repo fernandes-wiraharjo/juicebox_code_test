@@ -85,6 +85,7 @@ php artisan queue:work
 ```
 
 You can setup your queue connection driver at .env file on this key: (in my case, i use `database`)
+
 ```bash
 QUEUE_CONNECTION=
 ```
